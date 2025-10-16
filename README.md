@@ -132,19 +132,6 @@ Cross-validation ensures robust performance evaluation.
 
 Understanding feature importance improves business insight.
 
-project-root/
-  data/
-    Wholesale customers data.csv
-  notebooks/
-    XGBoost_Model.ipynb
-  src/
-    model.py
-  results/
-    feature_importance.png
-  README.md
-  requirements.txt
-
-
 
 🧰 Technologies Used
 
